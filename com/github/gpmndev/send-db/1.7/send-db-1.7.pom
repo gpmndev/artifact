@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- do_not_remove: published-with-gradle-metadata -->
+<modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.gpmndev</groupId>
+  <artifactId>send-db</artifactId>
+  <version>1.7</version>
+  <packaging>aar</packaging>
+  <name>gpmndev/send-db</name>
+  <url>https://github.com/gpmndev/send-db</url>
+  <inceptionYear>2022</inceptionYear>
+  <developers>
+    <developer>
+      <id>gpmndev</id>
+      <name></name>
+      <email></email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git://github.com/gpmndev/send-db.git</connection>
+    <developerConnection>scm:git://github.com/gpmndev/send-db.git</developerConnection>
+    <url>git://github.com/gpmndev/send-db.git</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>com.google.firebase</groupId>
+      <artifactId>firebase-storage</artifactId>
+      <version>20.0.1</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>
