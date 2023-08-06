@@ -1,0 +1,15 @@
+{
+	"id": "com.viettel.dms:locating",
+	"version_code": 10,
+	"version_name": "1.0",
+	"build_date": "06/08/2023 14:05:44",
+	"git_user_name": "Hiep Pham",
+	"git_user_email": "hieppdh@viettel.com.vn",
+	"git_branch_or_tag": "master",
+	"git_last_commit": "commit 609022ac77e73307fc3f21285e206886fe6f5d1dAuthor: Hiep Pham <hieppdh@viettel.com.vn>Date:   Fri Aug 4 12:43:03 2023 +0700    Ignore .idea",
+	"release_note": "- Service định vị;        - Interface lấy vị trí mới nhất",
+	"dependencies": [
+		"org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1",
+		"com.google.android.gms:play-services-location:21.0.1"
+	]
+}
