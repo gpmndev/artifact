@@ -1,0 +1,20 @@
+{
+	"id": "com.viettel.dms:kpilog",
+	"version_code": 11,
+	"version_name": "1.1",
+	"build_date": "02/12/2023 15:16:20",
+	"git_user_name": "danglq2",
+	"git_user_email": "danglq2@viettel.com.vn",
+	"git_branch_or_tag": "master",
+	"git_last_commit": "commit abdbd1a78383f06e594e128349c703cb2e906aa2Author: danglq2 <danglq2@viettel.com.vn>Date:   Fri Dec 1 13:59:31 2023 +0700    Refactor code: Uue koin library",
+	"release_note": "Không",
+	"dependencies": [
+		"net.zetetic:android-database-sqlcipher:4.2.0",
+		"com.google.code.gson:gson:2.10.1",
+		"com.squareup.retrofit2:retrofit:2.6.0",
+		"com.squareup.retrofit2:converter-gson:2.6.0",
+		"io.insert-koin:koin-android:3.3.3",
+		"org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1",
+		"org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.1"
+	]
+}
