@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<!-- do_not_remove: published-with-gradle-metadata -->
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.viettel.dms</groupId>
+	<artifactId>kpilog</artifactId>
+	<version>1.1.1</version>
+	<packaging>aar</packaging>
+	<name>kpilog</name>
+	<url>http://gitlab.gpdn.net/mobile-library/</url>
+	<inceptionYear>2023</inceptionYear>
+	<developers>
+		<developer>
+			<id>mobeo</id>
+			<name>Mobeo dev</name>
+			<email>mobile.tech.vts@gmail.com</email>
+		</developer>
+		</developers>
+	<dependencies>
+		<dependency>
+			<groupId>net.zetetic</groupId>
+			<artifactId>android-database-sqlcipher</artifactId>
+			<version>4.2.0</version>
+			<scope>runtime</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.10.1</version>
+			<scope>runtime</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.squareup.retrofit2</groupId>
+			<artifactId>retrofit</artifactId>
+			<version>2.6.0</version>
+			<scope>runtime</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.squareup.retrofit2</groupId>
+			<artifactId>converter-gson</artifactId>
+			<version>2.6.0</version>
+			<scope>runtime</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.jetbrains.kotlinx</groupId>
+			<artifactId>kotlinx-coroutines-android</artifactId>
+			<version>1.6.4</version>
+			<scope>runtime</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.jetbrains.kotlinx</groupId>
+			<artifactId>kotlinx-coroutines-core</artifactId>
+			<version>1.6.1</version>
+			<scope>runtime</scope>
+		</dependency>
+	</dependencies>
+</project>
