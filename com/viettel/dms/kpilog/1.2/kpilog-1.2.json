@@ -1,12 +1,12 @@
 {
 	"id": "com.viettel.dms:kpilog",
-	"version_code": 111,
-	"version_name": "1.1.1",
-	"build_date": "04/12/2023 15:45:39",
+	"version_code": 12,
+	"version_name": "1.2",
+	"build_date": "07/12/2023 09:12:48",
 	"git_user_name": "danglq2",
 	"git_user_email": "danglq2@viettel.com.vn",
 	"git_branch_or_tag": "master",
-	"git_last_commit": "commit ad945ae4a80e582dbb535ac36cbc11f95f19a70fAuthor: danglq2 <danglq2@viettel.com.vn>Date:   Mon Dec 4 11:58:38 2023 +0700    Refactor code: recovery code without koin library",
+	"git_last_commit": "commit 1ef9763de4d366379f036307ff151fd96f435d7bAuthor: danglq2 <danglq2@viettel.com.vn>Date:   Mon Dec 4 16:06:06 2023 +0700    Update vesion 1.1.1",
 	"release_note": "Không",
 	"dependencies": [
 		"net.zetetic:android-database-sqlcipher:4.2.0",
