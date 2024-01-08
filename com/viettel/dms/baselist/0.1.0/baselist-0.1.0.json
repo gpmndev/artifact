@@ -1,0 +1,15 @@
+{
+	"id": "com.viettel.dms:baselist",
+	"version_code": 1,
+	"version_name": "0.1.0",
+	"build_date": "08/01/2024 11:36:07",
+	"git_user_name": "danglq2",
+	"git_user_email": "danglq2@viettel.com.vn",
+	"git_branch_or_tag": "master",
+	"git_last_commit": "commit e359dea5bab4e50828f14918926533361b91ada5Author: Lê Quốc Đăng <danglq2@viettel.com.vn>Date:   Mon Jan 8 11:27:01 2024 +0700    Initial commit",
+	"release_note": "Không",
+	"dependencies": [
+		"androidx.recyclerview:recyclerview:1.1.0",
+		"com.google.android.material:material:1.4.0"
+	]
+}
