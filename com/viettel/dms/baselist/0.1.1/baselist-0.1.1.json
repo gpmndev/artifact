@@ -1,0 +1,15 @@
+{
+	"id": "com.viettel.dms:baselist",
+	"version_code": 11,
+	"version_name": "0.1.1",
+	"build_date": "16/01/2024 08:50:03",
+	"git_user_name": "danglq2",
+	"git_user_email": "danglq2@viettel.com.vn",
+	"git_branch_or_tag": "master",
+	"git_last_commit": "commit b83002750413beb99bb3452205f0a77d22e8ee17Author: Lê Quốc Đăng <danglq2@viettel.com.vn>Date:   Mon Jan 15 19:16:54 2024 +0700    Add try-catch block to the ListViewAdapter.kt and implement some callbacks in the ListViewAdapter.kt",
+	"release_note": "Không",
+	"dependencies": [
+		"androidx.recyclerview:recyclerview:1.1.0",
+		"com.google.android.material:material:1.4.0"
+	]
+}
