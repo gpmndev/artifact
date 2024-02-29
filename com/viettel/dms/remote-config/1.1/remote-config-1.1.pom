@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.viettel.dms</groupId>
 	<artifactId>remote-config</artifactId>
-	<version>1.0</version>
+	<version>1.1</version>
 	<packaging>aar</packaging>
 	<name>remote-config</name>
 	<url>http://gitlab.gpdn.net/mobile-library/</url>
-	<inceptionYear>2023</inceptionYear>
+	<inceptionYear>2024</inceptionYear>
 	<developers>
 		<developer>
 			<id>mobeo</id>
