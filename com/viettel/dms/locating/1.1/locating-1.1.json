@@ -1,0 +1,15 @@
+{
+	"id": "com.viettel.dms:locating",
+	"version_code": 11,
+	"version_name": "1.1",
+	"build_date": "13/03/2024 10:22:52",
+	"git_user_name": "ducpa10",
+	"git_user_email": "ducpa10@viettel.com.vn",
+	"git_branch_or_tag": "master",
+	"git_last_commit": "commit 16dc62fa51e013c50abe379453dfe7f5bfcbb52aAuthor: hieppdh <hieppdh@viettel.com.vn>Date:   Mon Mar 11 11:58:27 2024 +0700    Up version 1.1",
+	"release_note": "- Thêm cấu hình thời gian hết hiệu lực toạ độ cũ khi định vị",
+	"dependencies": [
+		"org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1",
+		"com.google.android.gms:play-services-location:21.0.1"
+	]
+}
