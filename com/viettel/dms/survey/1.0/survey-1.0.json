@@ -1,0 +1,15 @@
+{
+	"id": "com.viettel.dms:survey",
+	"version_code": 1,
+	"version_name": "1.0",
+	"build_date": "13/03/2024 11:36:57",
+	"git_user_name": "ducpa10",
+	"git_user_email": "ducpa10@viettel.com.vn",
+	"git_branch_or_tag": "master",
+	"git_last_commit": "commit 2f7da26448462a1fe34150cbf48e6370776075ebAuthor: VIETTELGROUP\biennv17 <biennv17@viettel.com.vn>Date:   Fri Aug 4 14:55:51 2023 +0700    survy again",
+	"release_note": "Không",
+	"dependencies": [
+		"androidx.appcompat:appcompat:1.0.0",
+		"com.google.android.material:material:1.0.0"
+	]
+}
