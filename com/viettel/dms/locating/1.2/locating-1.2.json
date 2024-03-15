@@ -1,0 +1,15 @@
+{
+	"id": "com.viettel.dms:locating",
+	"version_code": 12,
+	"version_name": "1.2",
+	"build_date": "15/03/2024 16:59:27",
+	"git_user_name": "ducpa10",
+	"git_user_email": "ducpa10@viettel.com.vn",
+	"git_branch_or_tag": "master",
+	"git_last_commit": "commit 1f2fd837d02ba297f98fca9984b7e469ab88ec16Author: ducpa10 <ducpa10@viettel.com.vn>Date:   Fri Mar 15 16:49:40 2024 +0700    Fix: transfer keepOldLocationTime to second",
+	"release_note": "- Giảm thời gian chờ khi yêu cầu vị trí mới;        - Sửa lỗi lấy giá trị PRIORITY_BALANCED_POWER_ACCURACY khi gọi nhiều hơn 2 lần;        - Chuyển thời gian hết hiệu lực tọa độ cũ thành giây",
+	"dependencies": [
+		"org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1",
+		"com.google.android.gms:play-services-location:21.0.1"
+	]
+}
