@@ -1,0 +1,15 @@
+{
+	"id": "com.viettel.dms:locating",
+	"version_code": 13,
+	"version_name": "1.3-sdk-16",
+	"build_date": "15/04/2024 16:19:20",
+	"git_user_name": "hieppdh",
+	"git_user_email": "hieppdh@viettel.com.vn",
+	"git_branch_or_tag": "master",
+	"git_last_commit": "commit f002d27aedb56c22156691d7a23f88b5f89a56f3Author: hieppdh <hieppdh@viettel.com.vn>Date:   Thu Mar 28 13:15:15 2024 +0700    Up version 1.3",
+	"release_note": "- Fix lỗi không kiểm tra được giả lập vị trí (mock location)",
+	"dependencies": [
+		"org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1",
+		"com.google.android.gms:play-services-location:21.0.1"
+	]
+}
